@@ -46,4 +46,16 @@ class ResponsesController < ApplicationController
     # you'll need to use send_file instead of render
     # if you want the image to show inline, use disposition: :inline
   end
+
+  def render
+
+  end
+
+  def send_data
+
+  end
+
+  def send_file
+
+  end
 end
